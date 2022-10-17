@@ -7,3 +7,7 @@
 * 2022.10.04 摄于上海市浦东新区滴水湖
 
 ![](./image/give-me-your-hand.jpg)
+
+* 2022.10.02 摄于上海市城隍庙
+
+![](./image/photo-sticker.jpg)

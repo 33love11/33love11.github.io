@@ -19,3 +19,7 @@
 * 2022.10.04，摄于上海市滴水湖
 
 ![](./image/give-me-your-hand.jpg)
+
+* 2022.10.06，摄于上海市外滩
+
+![](./image/Shanghai bund.jpg)

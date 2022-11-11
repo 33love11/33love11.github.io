@@ -22,4 +22,4 @@
 
 * 2022.10.06，摄于上海市外滩
 
-![](./image/Shanghai bund.jpg)
+![](./image/Shanghai-bund.jpg)

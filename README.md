@@ -2,7 +2,7 @@
 
 * 2022.08.22，摄于武汉市东湖
 
-![](./image/Hand in hand for the first time.jpg)
+![](./image/Hand-in-hand-for-the-first-time.jpg)
 
 * 2022.10.02，摄于上海市城隍庙
 

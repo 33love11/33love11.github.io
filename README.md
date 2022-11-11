@@ -8,7 +8,7 @@
 
 ![](./image/photo-sticker.jpg)
 
-* 2022.10.02，摄于上海市地铁
+* 2022.10.02，摄于上海市地铁站
 
 ![](./image/Subway.jpg)
 

@@ -12,7 +12,7 @@
 
 ![](./image/Subway.jpg)
 
-![](./image/subway2.png)
+![](./image/subway2.jpg)
 
 * 2022.10.03，摄于上海市复旦大学江湾校区
 

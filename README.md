@@ -30,7 +30,7 @@
 * 2022.12.30，摄于上海市
 
 <div style="display:inline">
-  <img src="image/subway3.jpg" alt="地铁🚇" title="2022.12.30，摄于上海市地铁站" height="300" width="400" />
-  <img src="image/ring.jpg" alt="戒指💍" title="2022.12.30，摄于上海市复旦大学江湾校区" height="300" width="400" />
+  <img src="image/subway3.jpg" alt="地铁🚇" title="2022.12.30，摄于上海市地铁站" height="400" width="300" />
+  <img src="image/ring.jpg" alt="戒指💍" title="2022.12.30，摄于上海市复旦大学江湾校区" height="400" width="300" />
 </div>
 

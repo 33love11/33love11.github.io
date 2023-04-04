@@ -11,8 +11,7 @@
 * 2022.10.02，摄于上海市地铁站
 
 <div style="display:inline">
-  <img src="image/Subway.jpg" alt="地铁🚇" title="2022.10.02，摄于上海市地铁站" height="300" width="400" />
-
+  <img src="image/subway.jpg" alt="地铁🚇" title="2022.10.02，摄于上海市地铁站" height="300" width="400" />
   <img src="image/subway2.jpg" alt="地铁🚇" title="2022.10.02，摄于上海市地铁站" height="300" width="400" />
 </div>
 
@@ -27,3 +26,11 @@
 * 2022.10.06，摄于上海市外滩
 
 ![](./image/Shanghai-bund.jpg)
+
+* 2022.12.30，摄于上海市
+
+<div style="display:inline">
+  <img src="image/subway3.jpg" alt="地铁🚇" title="2022.12.30，摄于上海市地铁站" height="300" width="400" />
+  <img src="image/ring.jpg" alt="戒指💍" title="2022.12.30，摄于上海市复旦大学江湾校区" height="300" width="400" />
+</div>
+

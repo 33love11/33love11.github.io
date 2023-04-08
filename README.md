@@ -33,4 +33,9 @@
   <img src="image/subway3.jpg" alt="地铁🚇" title="2022.12.30，摄于上海市地铁站" height="400" width="300" />
   <img src="image/ring.jpg" alt="戒指💍" title="2022.12.30，摄于上海市复旦大学江湾校区" height="400" width="300" />
 </div>
+* 2022.12.31，摄于上海市陆家嘴
 
+<div style="display:inline">
+  <img src="image/lujiazui1.jpg" alt="陆家嘴" title="2022.12.31，摄于上海市陆家嘴" height="400" width="300" />
+  <img src="image/lujiazui2.jpg" alt="陆家嘴" title="2022.12.31，摄于上海市陆家嘴" height="400" width="300" />
+</div>
